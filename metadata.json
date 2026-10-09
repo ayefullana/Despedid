@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Maia \u0026 Peio: Gatos vs. Humanos",
+  "description": "Juego interactivo de preguntas y tabla de posiciones para la despedida de solteros de Maia (Team Gato) y Peio (Team Humano).",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
